@@ -5,12 +5,15 @@
 1. Create a virtual environment:
 
    `python3 -m venv api_env`
+
    I have called the folder that contains the virtual environment api_env.
 
 2. Enter the vitual environment:
+
    `source api_env/bin/activate`
 
 3. Install the dependencies from requirements.txt:
+
    `pip3 install -r requirements.txt`
 
 ## How to start the api
@@ -29,9 +32,11 @@ Since the api is set to localhost and port 5000, you can run the bottom command 
 The api is set to accept a POST request to the route “/test” which looks for the key "string_to_cut" and uses its value. If the key exists, then the function in the "/test" route will parse the string in the value, take every three letters, and saves it into a JSON object with the key "return_string".
 
 So, for the above example, the returned JSON object should be:
+
 `{"return_string":"muydv"}`.
 
 If the string passed is less than 3 letters, the route will return an empty string:
+
 `{"return_string":""}`.
 
 ## Author
