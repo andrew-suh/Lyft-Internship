@@ -42,6 +42,12 @@ If the string passed is less than 3 letters, the route will return an empty stri
 
 `{"return_string":""}`.
 
+## Screenshots of api
+
+api:
+
+Returned JSON objects:
+
 ## Author
 
 Andrew Suh
