@@ -1,3 +1,5 @@
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lyft_logo.svg/1280px-Lyft_logo.svg.png 'Lyft Logo')
+
 # Lyft-Internship
 
 ## How to install dependancies
@@ -19,6 +21,7 @@
 ## How to start the api
 
 The api is made with python/flask stack. The api was built so it will listen to port 5000 on the localhost. To start the api, run the [app.py](https://github.com/andrew-suh/Lyft-Internship/blob/master/app.py) file with python3:
+
 `python3 app.py`
 
 ## Passing data to the api
