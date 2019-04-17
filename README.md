@@ -38,7 +38,7 @@ So, for the above example, the returned JSON object should be:
 
 `{"return_string":"muydv"}`.
 
-If the string passed is less than 3 letters, the route will return an empty string:
+If the string passed is less than 3 letters, it is assumed the route will return an empty string:
 
 `{"return_string":""}`.
 
