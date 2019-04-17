@@ -46,7 +46,11 @@ If the string passed is less than 3 letters, the route will return an empty stri
 
 api:
 
+<img src="https://github.com/andrew-suh/Lyft-Internship/blob/master/api.png">
+
 Returned JSON objects:
+
+<img src="https://github.com/andrew-suh/Lyft-Internship/blob/master/results.png">
 
 ## Author
 
