@@ -1,4 +1,4 @@
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lyft_logo.svg/1280px-Lyft_logo.svg.png 'Lyft Logo')
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lyft_logo.svg/1280px-Lyft_logo.svg.png" width="250" alt="Lyft Logo">
 
 # Lyft-Internship
 
